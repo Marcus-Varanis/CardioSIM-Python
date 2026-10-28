@@ -117,7 +117,7 @@ of the manuscript.
 ## Citation
 
 If you use this code, please cite the accompanying RBEF paper and the
-archived release (DOI minted upon publication via Zenodo).
+archived release ([DOI minted upon publication via Zenodo](https://doi.org/10.1590/1806-9126-RBEF-2026-0230)).
 
 ## License
 
